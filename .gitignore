@@ -1,0 +1,9 @@
+.vscode
+.bitcoin
+.electrs_db
+.regtest-pids
+db/
+logs/
+target/
+.DS_Store
+.env
